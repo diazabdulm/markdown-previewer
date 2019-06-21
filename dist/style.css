@@ -1,0 +1,7 @@
+#editor {
+  resize: both;
+}
+
+#preview {
+  white-space: pre-line;
+}
